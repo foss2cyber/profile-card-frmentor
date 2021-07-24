@@ -1,1 +1,1 @@
-# profile-card-component
+# profile-card
